@@ -34,7 +34,7 @@ UPnP（若しくはDLNA）の仕組みを利用して、
 
 ## ほそ道まっぷ
 
-![Hosomichi](https://c5d5e5.github.io/the14thlab/images/Hosomichi50a.jpg)
+![Hosomichi](https://c5d5e5.github.io/the14thlab/images/HosoMichi50a.jpg)
 
 紀行文に記された地名を一覧から選択し、地理院地図とGoogle Mapで地形や史跡を確認しながら、読書を支援するアプリです。
 地形を合わせ見ることで、山あいを旅したのか、川沿いに進んだのか、荒野を縦断したのか、など、旅の風景が見えてきます。
