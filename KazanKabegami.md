@@ -1,5 +1,7 @@
 # プライバシーポリシーとサポート情報 - 火山壁紙
 
+![Kazan](https://c5d5e5.github.io/the14thlab/images/KazanKabegami.jpeg)
+
 ## 本アプリについて
 
 このアプリは、気象庁の火山監視カメラが提供する火山画像をWindowsの壁紙に設定します。
