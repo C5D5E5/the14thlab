@@ -34,7 +34,7 @@ UPnP（若しくはDLNA）の仕組みを利用して、
 
 ## ほそ道まっぷ
 
-![Hosomichi](https://c5d5e5.github.io/the14thlab/images/Hosomichi50a.png)
+![Hosomichi](https://c5d5e5.github.io/the14thlab/images/Hosomichi50a.jpg)
 
 紀行文に記された地名を一覧から選択し、地理院地図とGoogle Mapで地形や史跡を確認しながら、読書を支援するアプリです。
 地形を合わせ見ることで、山あいを旅したのか、川沿いに進んだのか、荒野を縦断したのか、など、旅の風景が見えてきます。
@@ -74,7 +74,7 @@ UWPアプリで利用できる日本語フォントを一覧し、例文を見�
 
 ## 火山壁紙
 
-![Kazan](https://c5d5e5.github.io/the14thlab/images/KazanKabegami.png)
+![Kazan](https://c5d5e5.github.io/the14thlab/images/KazanKabegami.jpeg)
 
 気象庁の火山監視カメラが提供する火山画像をWindowsの壁紙に設定します。
 
@@ -94,7 +94,7 @@ UWPアプリで利用できる日本語フォントを一覧し、例文を見�
 
 ## 画面属性と制御
 
-![GamenZokusei](https://c5d5e5.github.io/the14thlab/images/GamenZokusei.png)
+![GamenZokusei](https://c5d5e5.github.io/the14thlab/images/GamenZokusei.jpg)
 
 モニタに関する情報取得と電源制御（オフ）を行うユーティリティです。
 マルチディスプレイ環境では、全てのモニタの電源を切ります。
@@ -127,7 +127,7 @@ UWPアプリで利用できる日本語フォントを一覧し、例文を見�
 
 ## 音量一覧選択
 
-![PresetVolumes](https://c5d5e5.github.io/the14thlab/images/PresetVolumes50.png)
+![PresetVolumes](https://c5d5e5.github.io/the14thlab/images/PresetVolumes50.jpg)
 
 システムボリュームを一覧から選択して設定するユーティリティです。
 
@@ -195,7 +195,7 @@ Windowsアプリの色デザインの補助のために、Windowsの定義色に
 
 ## 画像微調整
 
-![ImageAdjuster](https://c5d5e5.github.io/the14thlab/images/ImgAdjuster50.png)
+![ImageAdjustor](https://c5d5e5.github.io/the14thlab/images/ImgAdjustor50.png)
 
 写真やイラストなどの画像について、サイズ変更、回転、鏡像変換、切り抜き、任意の4点からなる四辺形からの長方形への変形、
 明度と彩度の調整、選択した矩形のモザイク化など、ブログ記事作成などで必要となる簡易な画像調整機能を提供します。
