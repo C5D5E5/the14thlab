@@ -12,6 +12,8 @@ Storeの運営により、予告なく配信が停止される場合がありま
 
 ## UPnP音楽再生指示
 
+![CastMusic](https://c5d5e5.github.io/the14thlab/images/CastMusic50.png)
+
 UPnP（若しくはDLNA）の仕組みを利用して、
 楽曲を管理するサーバ（コンテンツのディレクトリ）上のプレイリストについて、
 音楽を再生する機器（メディアレンダラー）に再生を指示するアプリです。
