@@ -2,8 +2,7 @@
 layout: default
 ---
 
-
-# Windows Storeで配信中のアプリ
+# (工事中)Windows Storeで配信中のアプリ
 
 Storeの運営により、予告なく配信が停止される場合があります。
 
