@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# (工事中)Windows Storeで配信中のアプリ
+# (工事中)第十四工房 Windows Store提供アプリ
+
+Windows Storeにて第十四工房名義で配信するアプリについて、配信状況及びプライバシーポリシーとサポート情報を掲示します。
+
+# Windows Storeで配信中のアプリ
 
 Storeの運営により、予告なく配信が停止される場合があります。
 
