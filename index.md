@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# (工事中)第十四工房 Windows Store提供アプリ
+# 第十四工房 Windows Store提供アプリ
 
 Windows Storeにて第十四工房名義で配信するアプリについて、配信状況及びプライバシーポリシーとサポート情報を掲示します。
 
