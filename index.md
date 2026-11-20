@@ -52,7 +52,7 @@ UPnP（若しくはDLNA）の仕組みを利用して、
 これにより、Windows10が動作する機器（主にmobileを想定）を一種のリモコンのように利用することができます。
 
 * [ストアのページ](https://www.microsoft.com/store/apps/9NBLGGH4RDFN)
-* プライバシーポリシーとサポート情報のページ
+* [プライバシーポリシーとサポート情報のページ](./UPnPMusicPlayback.html)
 
 ## ながら見Web
 
