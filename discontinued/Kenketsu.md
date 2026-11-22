@@ -38,7 +38,7 @@
 献血には、年間の回数と、前回からの間隔(日数)に規定があります。
 現在、その規定を満たしているか、回数と間隔を素早く確認できます。
 
-![Summary](https://c5d5e5.github.io/the14thlab/images/Kenketsu/summary.jpg)
+![Summary](https://c5d5e5.github.io/the14thlab/images/Kenketsu/summary.png)
 
 #### 登録
 
@@ -48,14 +48,14 @@
 血球計数検査の項目には、計測値のほかに、計算値があります。
 計測値を入力すると、計算値を自動計算します。その分は、入力を省き、数値の確認だけで済ますことができます。
 
-![Register](https://c5d5e5.github.io/the14thlab/images/Kenketsu/register.jpg)
+![Register](https://c5d5e5.github.io/the14thlab/images/Kenketsu/register.png)
 
 #### 履歴
 
 履歴の画面では、これまでに入力した結果の一覧を確認できます。
 日付、献血種別と合わせ、献血可否の判断となるヘモグロビン濃度(血色素量)と、血小板成分献血の可否の判断となる血小板数を表示します。
 
-![History](https://c5d5e5.github.io/the14thlab/images/Kenketsu/history.jpg)
+![History](https://c5d5e5.github.io/the14thlab/images/Kenketsu/history.png)
 
 #### 本アプリについて
 
