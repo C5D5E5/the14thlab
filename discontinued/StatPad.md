@@ -31,46 +31,46 @@
 
 上半分）入力したデータの一覧（入力データ）、ヒストグラム、散布図、を左右に切り替えて使用します。
 
-## 入力パッド
+### 入力パッド
 
 数値を入力する際、四則演算による計算ができます。最大10桁です。
 入力した数値、または計算結果を、「セット追加」ボタンで登録します。複数項目（変数）がある場合は、「項目追加」ボタンで登録します。
 
 ![Keypad](https://c5d5e5.github.io/the14thlab/images/StatPad/keypad2.jpg)
 
-## 入力データ
+### 入力データ
 
 入力したデータを一覧形式で表示します。セット番号（行）、項目番号（列）、値、の順で表示します。データを失わないよう、適宜、保存ボタンを利用してください。
 リストを選択中に、編集ボタンを押すと、キーパッドの表示部の値で上書きします。
 
 ![Input](https://c5d5e5.github.io/the14thlab/images/StatPad/input.jpg)
 
-## 統計量
+### 統計量
 
 計算対象の項目（変数）を選択すると、計算を実行します。
 
 ![Stats](https://c5d5e5.github.io/the14thlab/images/StatPad/stats.jpg)
 
-## ヒストグラム
+### ヒストグラム
 
 「統計量」の画面で選択した項目（変数）について、ヒストグラム（柱状グラフ）を作成します。縦画面で使用する想定で、横向きです。
 平均値、中央値（メディアン）、平均値±2σの範囲を図示します。データの範囲が広い場合、柱の最大値を設定するボタンで、柱の数を調整できます。
 
 ![Histogram](https://c5d5e5.github.io/the14thlab/images/StatPad/histogram.jpg)
 
-## 相関関係
+### 相関関係
 
 「変数1」で独立変数、「変数2」で従属変数を選択すると、計算を実行します。
 
 ![Correlation](https://c5d5e5.github.io/the14thlab/images/StatPad/correlation.jpg)
 
-## 散布図
+### 散布図
 
 「相関関係」の画面で選択した項目（変数）を用いて、散布図を作成します。回帰直線を合わせて表示します。
 
 ![Scatter](https://c5d5e5.github.io/the14thlab/images/StatPad/scatter.jpg)
 
-## R向けスクリプト例
+### R向けスクリプト例
 
 RGuiでの利用例を示します。
 
@@ -91,7 +91,7 @@ RGuiでの利用例を示します。
 
 ![Result](https://c5d5e5.github.io/the14thlab/images/StatPad/Rresult.jpg)
 
-## Mathematica(4.x)向けスクリプト例
+### Mathematica(4.x)向けスクリプト例
 
 ファイルメニューの「ファイルを開く」でテキストファイルを指定し、出力したスクリプト（ファイル名の最初がMで始まる）を読み込みます。
 
