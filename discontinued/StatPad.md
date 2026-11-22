@@ -36,7 +36,7 @@
 数値を入力する際、四則演算による計算ができます。最大10桁です。
 入力した数値、または計算結果を、「セット追加」ボタンで登録します。複数項目（変数）がある場合は、「項目追加」ボタンで登録します。
 
-![Keypad](https://c5d5e5.github.io/the14thlab/images/StatPad/keypad.jpg)
+![Keypad](https://c5d5e5.github.io/the14thlab/images/StatPad/keypad2.jpg)
 
 ## 入力データ
 
@@ -76,24 +76,40 @@ RGuiでの利用例を示します。
 
 最初に、ファイルメニューから「作業ディレクトリの変更」を行い、スクリプトとデータファイルを置いているディレクトリを指定します。
 
+![Directory](https://c5d5e5.github.io/the14thlab/images/StatPad/Rdirectory.jpg)
+
 ファイルメニューから「スクリプトを開く」を選び、生成されたRスクリプトを選びます。
+
+![Open](https://c5d5e5.github.io/the14thlab/images/StatPad/Ropen.jpg)
 
 スクリプトが表示されたら、その上で右クリックをするとメニューが表示されます。
 メニューから、「全て選択」を選んだ後、「カーソル行または選択中のRコードを実行」を行います。
 
+![Exec](https://c5d5e5.github.io/the14thlab/images/StatPad/Rexec.jpg)
+
 スクリプトが実行されます。オプションで対話型を指定しているので、クリックをするとグラフが表示されます。
+
+![Result](https://c5d5e5.github.io/the14thlab/images/StatPad/Rresult.jpg)
 
 ## Mathematica(4.x)向けスクリプト例
 
 ファイルメニューの「ファイルを開く」でテキストファイルを指定し、出力したスクリプト（ファイル名の最初がMで始まる）を読み込みます。
 
+![Open](https://c5d5e5.github.io/the14thlab/images/StatPad/Mopen.jpg)
+
 ノートブックが開くので、「SetDirectory」を適宜編集して、出力したデータファイル（タブ区切り形式）を読み込めるようにします。
 
 なお、新しいバージョンでは、構文が変更されていますので、適宜編集してください。
 
+![SetDir](https://c5d5e5.github.io/the14thlab/images/StatPad/Msetdir.jpg)
+
 ノートブックの上で右クリックをし「セルを評価」を選ぶか、カーネルメニューの「式の評価」から「ノートブック全体を評価」を選びます。
 
+![Eval](https://c5d5e5.github.io/the14thlab/images/StatPad/Meval.jpg)
+
 スクリプトが実行されます。入力に対応する出力を確認します。
+
+![Result](https://c5d5e5.github.io/the14thlab/images/StatPad/Mresult.jpg)
 
 ## あらかじめのおことわり (FAQ)
 
