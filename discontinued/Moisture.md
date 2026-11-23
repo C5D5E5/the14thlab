@@ -19,7 +19,7 @@
 1. 飽和水蒸気圧の計算には、W. WagnerとA. Prussの近似式を用いています。
 計算式については、参考文献２）のサイトに掲載されたものを用いています。
 
-2. グラフの表示には、[WinRT XAML Toolkit](https://winrtxamltoolkit.codeplex.com/)を利用しています。
+2. グラフの表示には、[WinRT XAML Toolkit](https://github.com/sphinxlogic/WinRTXamlToolkit)を利用しています。
 
 3. 本アプリの「調湿に最低限必要な時間」は、部屋の湿気の出入りがないとした場合の時間です。実際には、換気に伴う出入りがありますので、時間は長くなります。
 
@@ -31,7 +31,9 @@
 
 	物49（411）ページ、「水の蒸気圧」、ほか
 
-2. [Kaye & Laby Online, Tables of Physical & Chemical Constants](http://www.kayelaby.npl.co.uk/chemistry/3_4/3_4_2.html)
+2. Kaye & Laby Online, Tables of Physical & Chemical Constants
+
+	※2026年11月現在、リンク切れ
 
 3. 卜部吉庸著、化学の新研究、三省堂
 
