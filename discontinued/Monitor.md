@@ -1,4 +1,4 @@
-# プライバシーポリシーとサポート情報 - 四則演算パズルU
+# プライバシーポリシーとサポート情報 - 画面属性と制御
 
 ![GamenZokusei](https://c5d5e5.github.io/the14thlab/images/GamenZokusei.jpg)
 
